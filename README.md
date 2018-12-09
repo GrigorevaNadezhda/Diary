@@ -21,7 +21,7 @@
 
 [rsf-файл](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/НАДЯ.rsf)
 
-![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/01_A0.png)
+![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/A0.png)
 
 ![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/02_A0.png)
 
