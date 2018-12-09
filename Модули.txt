@@ -1,0 +1,44 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class Field as "Экранное поле"
+class Form as "Экранная форма"
+
+class Field1 as "Поле записи\nзанятия"
+class Field2 as "Поле записи\nдлительности\nзанятия"
+class Field3 as "Поле записи\nколичества\nзанятий"
+class Form1 as "Форма записи\nзанятия в\nкалендарь"
+
+class Field4 as "Поле записи\nпрофиля\nтренера"
+class Form2 as "Форма\nназначения\nтренера\nна тренировку"
+
+class Form3 as "Форма записи\nвидов\nабонементов"
+class Field5 as "Поле\nназначения\nцены за\nабонемент"
+
+class Form4 as "Форма вызова\nфункции\nформирования\nxml-файла"
+class Form5 as "Форма вызова\nфункции\nотправки\nфайла в\nхранилище"
+
+Entity <|-- Field 
+Entity <|-- Form 
+
+Field <|-- Field1 
+Field <|-- Field2 
+Field <|-- Field3 
+Field <|-- Field4 
+Field <|-- Field5 
+
+Form <|-- Form1 
+Form <|-- Form2 
+Form <|-- Form3 
+Form <|-- Form4 
+Form <|-- Form5 
+
+hide members
+hide circle
+hide methods
+@enduml
