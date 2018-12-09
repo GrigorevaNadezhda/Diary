@@ -9,8 +9,9 @@
 
 ![Диаграмма прецедентов индивидуальное задание](http://www.plantuml.com/plantuml/png/fO-nJiCm48Rd-YbEcM2er0T0g2bp96_CLc9QgqwCpeuOA5BRXGM9XO4DyGOC89KMoYkStuYBdABk3BPE_tt-xZpsGM5eQolyt3JN2bKDgWmEuLOC9ggSJz6rJNNXB4UNCnEq6EI8xYOb4yi8WmuhZSVHtP6lzRfKNl_RQFLLWE00pNGMe3Aeos1S8zA-SWJAGqRFSKK_jASTVTCchkc3Tl4Xww6YXrve7rTn7PSCVjAMtWw0JFtNZg3tk8oFVD_JXhP_YaGySVyh4uU_vVsxvEm6TqCb38TmafyAFbrP23c2imLNKXGSBCvv8p7MJTNMzXS0)
 ## Лабораторная работа №2
+![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/строить.png)
 
-## Лабораторная работа №3
+![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/чертить.png)
 
 ## Лабораторная работа №4
 ### Определение требований к модели
