@@ -118,3 +118,4 @@ UFP всего 96
 * исправление полученных замечаний
 * сохранение курсового проекта в архиве
 * представление подписанного титульного листа в бумажном виде
+[курсовой проект](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/Kursovaya.docx)
